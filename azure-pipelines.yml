@@ -7,7 +7,7 @@ variables:
   BuildPlatform: "any cpu"
   Parameters.RestoreBuildProjects: "**/*.csproj"
   Parameters.TestProjects: "**/*[Tt]ests/*.csproj"
-  webapp_name: tailwind-github-demo
+  webapp_name: tailwind-github-demo1
 
 pool:
   name: ubuntu-latest
